@@ -38,4 +38,11 @@ https://butterhands.itch.io/doomgeon-kit
 1) beautify existing levels and see to it that every one of them has the same starting positions
 2) add 'delete' and 'replace' functionalities (like d and r in vim)
 3) add a menu?
+### SCREENSHOTS
+![alt text](https://github.com/benjamin-mihoci/VINVA/blob/main/Screenshots/screen1.png)
+![alt text](https://github.com/benjamin-mihoci/VINVA/blob/main/Screenshots/screen2.png)
+![alt text](https://github.com/benjamin-mihoci/VINVA/blob/main/Screenshots/screen3.png)
+
+
+
 
