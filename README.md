@@ -3,7 +3,7 @@
 >This was my final project for the CS50 Introduction to Computer Science course. I am uploading it here to learn how to use git and hopefuly get some feedback.
 
 ### About the game
->The game is a top-down dungeon crawler with 20 levels and the idea behind is to teach the user basic commands in the Vim text editor and aims to serve as preparation for the vimtutor, which itself teaches basic commands while editing text. The game is inspired by the game Vim Adventures, which unfortunately is not freely available. That was also the main incentive for trying to make VINVA - so that people can get used to Vim commands for free.
+>The game is a top-down dungeon crawler with 20 levels and the idea behind is to teach the user basic commands for the Vim text editor and aims to serve as preparation for the vimtutor, which itself teaches basic commands while editing text. The game is inspired by the game Vim Adventures, which unfortunately is not freely available. That was also the main incentive for trying to make VINVA - so that people can get used to Vim commands for free.
 
 ### Resources
 >The Python Arcade Library (https://api.arcade.academy/en/latest/)
