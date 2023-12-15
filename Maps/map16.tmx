@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="1">
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="BadVertical" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAADwbhAAAAE=
+  </data>
+ </layer>
+ <layer id="7" name="BadHorizontal" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAADwbhAAAAE=
+  </data>
+ </layer>
+ <layer id="2" name="Ground" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzrENACAMA0GPwRRh/+2ADWgQRc7S1e9KUrDNz/2z8cjtB319fX19/Y59AHpYPeqbeA==
+  </data>
+ </layer>
+ <layer id="3" name="Wall" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz7EJADAIRUE3yv7bWWQBCzUE7sD6+SPgOsNX6U/+Vum/3q+vr6+vr9/Z+GE/AHsSyNJItQ==
+  </data>
+ </layer>
+ <layer id="4" name="Obstacles" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6A3sn87Y9w5SEACN0w7AAAA8NgCiGoAMA==
+  </data>
+ </layer>
+ <layer id="5" name="Chest" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6Dns38gY9w5SEACd007AAAA8MQC7e0ASw==
+  </data>
+ </layer>
+ <layer id="6" name="Keys" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6BXs38pY9w5SEACt0w7AAAA8NACeJkAQg==
+  </data>
+ </layer>
+</map>
